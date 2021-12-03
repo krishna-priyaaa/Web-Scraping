@@ -1,0 +1,79 @@
+,Level,Category Name,Quantity
+0,0,Snacks & Branded Foods,5334
+1,1,Chocolates & Candies,514
+2,1,"Noodle, Pasta, Vermicelli",375
+3,1,Breakfast Cereals,504
+4,1,Biscuits & Cookies,632
+5,1,Frozen Veggies & Snacks,393
+6,1,Snacks & Namkeen,1053
+7,1,"Spreads, Sauces, Ketchup",845
+8,1,Ready To Cook & Eat,822
+9,1,Pickles & Chutney,222
+10,1,Indian Mithai,109
+,Level,Category Name,Quantity
+0,1,Chocolates & Candies,514
+1,2,Chocolates,392
+2,2,"Toffee, Candy & Lollypop",100
+3,2,Gift Boxes,28
+,Level,Category Name,Quantity
+0,1,"Noodle, Pasta, Vermicelli",375
+1,2,Instant Noodles,129
+2,2,Hakka Noodles,22
+3,2,Cup Noodles,10
+4,2,Vermicelli,46
+5,2,Instant Pasta,33
+6,2,Pasta & Macaroni,146
+,Level,Category Name,Quantity
+0,1,Breakfast Cereals,504
+1,2,Oats & Porridge,113
+2,2,Kids Cereal,68
+3,2,Muesli,107
+4,2,Flakes,68
+5,2,Granola & Cereal Bars,167
+,Level,Category Name,Quantity
+0,1,Biscuits & Cookies,632
+1,2,Glucose & Milk Biscuits,37
+2,2,Salted Biscuits,26
+3,2,"Marie, Health, Digestive",123
+4,2,Cream Biscuits & Wafers,248
+5,2,Cookies,211
+,Level,Category Name,Quantity
+0,1,Frozen Veggies & Snacks,393
+1,2,Frozen Vegetables,34
+2,2,Frozen Non-Veg Snacks,178
+3,2,Frozen Indian Breads,22
+4,2,Frozen Veg Snacks,163
+,Level,Category Name,Quantity
+0,1,Snacks & Namkeen,1053
+1,2,Chips & Corn Snacks,484
+2,2,Namkeen & Savoury Snacks,605
+,Level,Category Name,Quantity
+0,1,"Spreads, Sauces, Ketchup",845
+1,2,Honey,103
+2,2,Tomato Ketchup & Sauces,205
+3,2,Mayonnaise,87
+4,2,"Jam, Conserve, Marmalade",105
+5,2,Chilli & Soya Sauce,134
+6,2,Vinegar,55
+7,2,Dips & Dressings,122
+8,2,Choco & Nut Spread,201
+,Level,Category Name,Quantity
+0,1,Ready To Cook & Eat,822
+1,2,Breakfast & Snack Mixes,221
+2,2,Soups,64
+3,2,"Papads, Ready To Fry",97
+4,2,Home Baking,131
+5,2,Heat & Eat Ready Meals,161
+6,2,Dessert Mixes,67
+7,2,Canned Food,114
+,Level,Category Name,Quantity
+0,1,Pickles & Chutney,222
+1,2,Chutney Powder,53
+2,2,Lime & Mango Pickle,50
+3,2,Other Veg Pickle,112
+4,2,Non Veg Pickle,7
+,Level,Category Name,Quantity
+0,1,Indian Mithai,109
+1,2,Chikki & Gajjak,20
+2,2,"Tinned, Packed Sweets",59
+3,2,Fresh Sweets,30
